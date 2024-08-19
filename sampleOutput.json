@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CBS Sports",
+      "title": "2024 British Open leaderboard: Live coverage, updates, golf scores today in Round 4 at Royal Troon - CBS Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-21T16:27:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MLive.com",
+      "title": "Photos show huge turnout for Trump, Vance in first rally since assassination attempt - MLive.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm1saXZlLmNvbS9wb2xpdGljcy8yMDI0LzA3L3Bob3Rvcy1zaG93LWh1Z2UtdHVybm91dC1mb3ItdHJ1bXAtdmFuY2UtaW4tZmlyc3QtcmFsbHktc2luY2UtYXNzYXNzaW5hdGlvbi1hdHRlbXB0Lmh0bWzSAY4BaHR0cHM6Ly93d3cubWxpdmUuY29tL3BvbGl0aWNzLzIwMjQvMDcvcGhvdG9zLXNob3ctaHVnZS10dXJub3V0LWZvci10cnVtcC12YW5jZS1pbi1maXJzdC1yYWxseS1zaW5jZS1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-21T15:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMS9zcG9ydC93bmJhLWFsbC1zdGFyLWdhbWUtc3B0LWludGwvaW5kZXguaHRtbNIBRGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjEvc3BvcnQvd25iYS1hbGwtc3Rhci1nYW1lLXNwdC1pbnRs?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-21T15:41:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian US",
+      "title": "No evidence gunman in Trump rally shooting was bullied, high school says - The Guardian US",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMjEvdHJ1bXAtcmFsbHktc2hvb3RpbmctZ3VubWFuLWhpZ2gtc2Nob29s0gFfaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8yMS90cnVtcC1yYWxseS1zaG9vdGluZy1ndW5tYW4taGlnaC1zY2hvb2w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-21T15:38:00Z",
+      "content": null
+    }
+  ]
+}
